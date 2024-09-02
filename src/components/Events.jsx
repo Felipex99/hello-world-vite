@@ -6,7 +6,6 @@ const Events = () => {
 
     const handleText = () => {
         console.log("BOHEMIIIIIAAAAAA....")
-        alert("BOHEMIIIIIAAAAAA....")
     }
 
     return(
